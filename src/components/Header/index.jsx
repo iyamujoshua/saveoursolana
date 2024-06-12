@@ -24,9 +24,9 @@ const Header = () => {
             </button>
             </div>
             <div>
-            <button className="whitepaper">
+            {/* <button className="whitepaper">
               WhitePaper
-            </button>
+            </button> */}
             </div>
           </div>
         </div>
