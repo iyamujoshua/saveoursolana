@@ -1,0 +1,47 @@
+.presale_header{
+    color: white;
+    text-align: center;
+    margin: 15rem 0;
+}
+
+.presale_header h1{
+padding-bottom: 20px;
+font-size: 40px;
+}
+
+.presale_header p{
+    padding-bottom: 20px;
+    font-size: 16px;
+}
+.presale_header .presale_header_p2{
+    padding-bottom: 20px;
+    font-size: 16px;
+    width: 500px;
+    margin: 1rem auto;
+
+}
+
+.presale_header h2{
+    font-size:24px;
+}
+
+@media screen  and (max-width:820px){
+    .presale_header h1{
+        padding-bottom: 20px;
+        font-size: 25px;
+        }
+        
+        .presale_header p{
+            padding-bottom: 20px;
+            font-size: 14px;
+        }
+        .presale_header h2{
+            font-size:16px;
+        }
+        .presale_header{
+            color: white;
+            text-align: center;
+            margin-bottom: 10px;
+        }
+        
+}
