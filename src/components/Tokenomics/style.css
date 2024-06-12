@@ -1,0 +1,30 @@
+.tokenomics-contents{
+    text-align: center;
+    color: white;
+    margin: 15rem 0;
+}
+.Tokenomics{
+    position: relative;
+}
+.Tokenomics img{
+    position: absolute;
+     bottom: -150%;
+    right: 0;
+}
+.tokenomics-contents h1{
+    /* margin-bottom: 20px; */
+    }
+.tokenomics-contents p{
+margin-bottom: 60px;
+}
+
+@media screen  and (max-width:820px){
+    .tokenomics-contents h1{
+       font-size:20px;
+        }
+
+        .tokenomics-contents p{
+            font-size: 14px;
+            padding: 0px 10px 0px 10px;
+            }
+}
