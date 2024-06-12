@@ -19,9 +19,12 @@ const Header = () => {
           <p>Grab your $BADDIE were live now!!</p>
           <div className="two-btn">
             <div>
-            <button className="Buy">
+            {/* <button className="Buy">
               Buy $BADDIE
-            </button>
+            </button> */}
+            <a href="https://raydium.io/swap/?inputMint=sol&outputMint=6mLBiFGicnpLtsGMSZTv4poABe8Z1NhALkywrbfZpump" className="Buy">
+                Buy $BADDIE
+            </a>
             </div>
             <div>
             {/* <button className="whitepaper">
