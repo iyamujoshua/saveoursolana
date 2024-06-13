@@ -294,7 +294,7 @@ margin-left: 50px;
     .Navbar{
         position: sticky;
         top: 0%;
-        background-color: #140820;
+        background-color: black;
         display: flex;
         justify-content: space-between;
         max-width: 100%;
@@ -346,7 +346,7 @@ display: flex;
         /* text-align: left; */
         height: 100vh;
         border: 0.5px solid rgba(255, 255, 255, 0.04);
-        background: #140820;
+        background: black;
         backdrop-filter: blur(30px);
         top: 100%;
         z-index: 1000;
