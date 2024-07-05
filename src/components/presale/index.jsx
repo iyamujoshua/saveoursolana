@@ -5,7 +5,7 @@ export default function Presale() {
   return (
     <div>
         <div className='presale_header'>
-            <h1>$SOS IS NOW LIVE</h1>
+            <h1>Together, we can steer Solana back to being the crown jewel of decentralized finance. 🚀🌐</h1>
         <p>CA⬇️</p>
             <p>****************</p>
             
