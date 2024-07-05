@@ -68,7 +68,7 @@ const Navbar = () => {
                 offset={-70}
                 duration={500}
               >
-                <a href="/" className="link">
+                <a href="https://t.me/SOS_onSoL" className="link">
                 Follow $SOS
                 </a>
               </Link>
