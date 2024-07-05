@@ -2,7 +2,7 @@ import React, { useState } from "react";
 import { NavLink } from 'react-router-dom';
 import { Link } from "react-scroll";
 import "./style.css"
-import logo from "../../assets/twitterbad.png"
+import logo from "../../assets/save.jpeg"
 const Navbar = () => {
   const [open, setopen] = useState(false);
 
@@ -69,7 +69,7 @@ const Navbar = () => {
                 duration={500}
               >
                 <a href="/" className="link">
-                Follow $Baddie
+                Follow $SOS
                 </a>
               </Link>
               {/* <NavLink to='/'><a  className='link'>CONTACT</a></NavLink>  */}

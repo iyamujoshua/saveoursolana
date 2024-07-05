@@ -9,8 +9,8 @@ const Body = () => {
     <div>
         <Header/>
         <Presale/>
-        <Tokenomics/>
-        <Ect/>
+        {/* <Tokenomics/> */}
+        {/* <Ect/> */}
         <Footer/>
     </div>
   )
