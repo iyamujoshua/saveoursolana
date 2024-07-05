@@ -16,7 +16,7 @@ const Header = () => {
         <div className="Header_content">
           <h1>Introducing $BADDIE Coin: The Hottest Meme Coin by Twitter's BADDIE!</h1>
           {/* <h1>Gaming is here!</h1> */}
-          <p>Grab your $BADDIE were live now!!</p>
+          {/* <p>Grab your $BADDIE were live now!!</p> */}
           <div className="two-btn">
             <div>
             {/* <button className="Buy">
